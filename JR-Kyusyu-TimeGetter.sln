@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JR-Kyusyu-TimeGetter", "JR-Kyusyu-TimeGetter\JR-Kyusyu-TimeGetter.csproj", "{310A6456-612A-4A23-9375-D1BD00C90AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310A6456-612A-4A23-9375-D1BD00C90AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310A6456-612A-4A23-9375-D1BD00C90AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310A6456-612A-4A23-9375-D1BD00C90AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310A6456-612A-4A23-9375-D1BD00C90AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18879B81-B3D4-4A48-A61F-9453680EDF96}
+	EndGlobalSection
+EndGlobal
